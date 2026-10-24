@@ -1,0 +1,13 @@
+Site Dubois Père & Fils - maquette
+
+Structure
+  index.html     page unique
+  css/style.css  styles
+  js/main.js     menu, animations au scroll, formulaire
+  images/        photos optimisées
+
+Avant la mise en ligne
+  1. Remplacer VOTRE-DOMAINE.be dans robots.txt et sitemap.xml.
+  2. Ajouter <link rel="canonical" href="https://www.VOTRE-DOMAINE.be/"> dans le <head> de index.html.
+  3. Formulaire : il ouvre actuellement la messagerie du visiteur (mailto). Pour un envoi automatique, utiliser un service (Formspree, Netlify Forms) ou un script serveur.
+  4. Remplacer les photos de faible résolution par les originaux (même nom de fichier).
